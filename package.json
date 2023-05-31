@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-generator-using-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen-chokkapu/QR-code-generator-using-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveen-chokkapu/QR-code-generator-using-node-js/issues"
+  },
+  "homepage": "https://github.com/naveen-chokkapu/QR-code-generator-using-node-js#readme",
+  "dependencies": {
+    "inquirer": "^9.2.6",
+    "qr-image": "^3.2.0"
+  }
+}
